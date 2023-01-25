@@ -1,10 +1,10 @@
 # <img src="public/icon.png" height="30"/> Task List Website 
 <img src="images/show.gif" height="250"/>
 
-<img src="images/myIcons/kk.png" height="15"/> Made by Klaudia Kępka
+<img src="images/myIcons/iconK.svg" height="15"/> Made by Klaudia Kępka
 
 ## <img src="images/myIcons/demo.png" height="20"/> Task List Demo Website:
-[Task List Demo Website](https://kepkaklaudia.github.io/taskList-react/)
+[Task List Demo Website](https://kepkaklaudia.github.io/task-list-react/)
 
 ## <img src="images/myIcons/quick.png" height="20"/> Quick Preview
 ![gifPreview](images/preview.gif)
